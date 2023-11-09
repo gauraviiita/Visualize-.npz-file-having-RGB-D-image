@@ -1,9 +1,9 @@
 # Visualize-.npz-file-having-RGB-D-image
 
 
-For reading file squentially, we need to added sorted before glob.glob
+# For reading file squentially, we need to added sorted before glob.glob
 
-# This is the path where all the files are stored.
+
 **Method-1**
 ```
 import os
